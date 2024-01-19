@@ -76,6 +76,6 @@ Welcome to my journey of learning and practicing Data Structures and Algorithms 
 
 ## Contribution
 
-If you have any suggestions, improvements, or new problems to add, please feel free to contribute! Check out the [contribution guidelines](CONTRIBUTING.md) for details.
+If you have any suggestions, improvements, or new problems to add, please feel free to contribute! 
 
 Happy coding and learning! 🚀
