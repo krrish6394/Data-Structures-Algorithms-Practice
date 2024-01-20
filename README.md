@@ -6,7 +6,7 @@ Welcome to my journey of learning and practicing Data Structures and Algorithms 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/krrish6394/datastructalgopractice.git
+   git clone https://github.com/krrish6394/Data-Structures-Algorithms-Practice.git
    ```
 
 2. **Install Python:**
